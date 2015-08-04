@@ -2,6 +2,9 @@
 logs
 *.log
 
+# Visual Studio Code
+.settings/
+
 # Runtime data
 pids
 *.pid
